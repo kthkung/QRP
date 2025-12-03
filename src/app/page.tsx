@@ -82,7 +82,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-8 bg-gray-900">
       <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm">
-        <h1 className="text-4xl font-bold mb-8 text-white text-center">QRP to Excel Converter For P' Pete</h1>
+        <h1 className="text-4xl font-bold mb-8 text-white text-center">QRP to Excel Converter</h1>
         
         <div className="bg-gray-800 p-8 rounded-xl shadow-lg w-full border border-gray-700">
           <div className="mb-6">
