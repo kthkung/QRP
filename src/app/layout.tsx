@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "QRP Convert",
-  description: "QRP to Excel Converter For P' Pete",
+  description: "QRP to Excel Converter",
   icons: {
     icon: "/favicon.svg",
     apple: "/icon.svg",
